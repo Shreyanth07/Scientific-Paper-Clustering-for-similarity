@@ -19,3 +19,7 @@ The approach I followed for this project includes,
 6. Applying k-Means for clustering.
 Visualize clusters as an iterative scatter plot.
 7. Apply topic modelling for each clusters.
+
+![t-SNE with Kmeans Labels](https://user-images.githubusercontent.com/70295717/190561676-e6869763-1794-40f3-be25-db2d68d3fc0e.png)
+
+![umap with Kmeans Labels](https://user-images.githubusercontent.com/70295717/190561823-33728471-b5fc-4b12-8c1e-1944624fe701.png)
